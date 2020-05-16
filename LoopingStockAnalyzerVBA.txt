@@ -1,3 +1,5 @@
+Sub LoopingStockAnalysis():
+
 Dim Current As Worksheet
 For Each ws In Worksheets
 
@@ -88,3 +90,4 @@ Next ws
 
 
 End Sub
+
